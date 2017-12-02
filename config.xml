@@ -8,12 +8,12 @@
 		<charlimit>1000</charlimit>
 	</config>
 	<info>
-		<league>The Test League (TTL)</league>
-		<commish>put commish name here</commish>
-		<rules>put rules link here</rules>
-		<owners>put owners link here</owners>
-		<advance>9/3, 5pm Central</advance>
-		<draft>9/3, 5pm Central</draft>
+		<league>IlI Minded</league>
+		<commish>IlI Minded</commish>
+		<rules>Please click the picture of Tom Brady in the Top Right Corner, then the Calendar, then Madden 18 Rules to learn our rules. Every Owner is expected to know, and adhere to our ruleset.</rules>
+		<owners>Test Test Test</owners>
+		<advance>Monday, Wednesday, Friday, 10 PM EST</advance>
+		<draft>TBA</draft>
 		<botdev>https://github.com/kicker10BOG/daddyleagues-groupme-bot</botdev>
 	</info>
 	<img>
